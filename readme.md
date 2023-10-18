@@ -2,4 +2,4 @@
 
 This is a set of python scripts to analyse climate data
 
-If your interested in collaborating, email me at PLACEHOLDER
+If you're interested in collaborating, email me at PLACEHOLDER
