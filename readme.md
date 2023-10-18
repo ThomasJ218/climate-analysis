@@ -6,4 +6,5 @@ If you're interested in collaborating, email me at PLACEHOLDER
 
 Test to see if i get this error 
 
-THis line is from terminal 
+THis line is from terminalklsjdfkjsdfhkjsdf
+ 
